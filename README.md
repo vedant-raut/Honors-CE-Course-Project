@@ -1,4 +1,4 @@
-Honors Course Project
+Honors Course Project (E-Commerce website)
 
 Group Members:-
 1. Hritik Pol
